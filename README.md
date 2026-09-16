@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：历史统计
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 010 篇 - 百家乐Ai预测分析工具：为每份分析结果附上可复查的数据说明](https://github.com/TGmszrcsz/baccarat-ai-010) ｜ [下一篇：第 012 篇 - 百家乐Ai预测分析工具：读懂百分比之前先写清分母](https://github.com/TGmszrcsz/baccarat-ai-012)
+
+<!-- article-chain:end -->
+
 百分比看起来合理，但分类总数没有被检查。本篇围绕“把分类数量相加是最基础的核对”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从具体场景进入问题
